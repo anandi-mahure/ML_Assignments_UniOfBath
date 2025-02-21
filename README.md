@@ -64,26 +64,5 @@ Each assignment contains **Jupyter notebooks with detailed explanations, code im
 
 📜 **Notebook:** `ML1_Lab_4_Coffee_Machine_Prediction.ipynb`
 
----
 
-### **🔹 ML5: Clustering & PCA**
-📌 **Objective:** Segment customers into groups based on financial behavior.  
-📌 **Techniques Used:** K-Means Clustering, Principal Component Analysis (PCA)  
-📌 **Dataset:** Loan Dataset  
-📌 **Key Learnings:**  
-✔ How to perform **unsupervised learning**  
-✔ Using **elbow method** for optimal clusters  
-✔ PCA for dimensionality reduction  
 
-📜 **Notebook:** `ML1_Lab_5_Clustering_PCA.ipynb`
-
----
-
-# 📢 Notes for Recruiters & Hiring Managers  
-📂 **All notebooks are well-documented with explanations and insights.**  
-📂 **Datasets are included for reproducibility.**  
-📂 **This work showcases a mix of theoretical understanding & practical application.**  
-
-📩 **Feel free to explore & reach out for discussions on AI & ML applications!**  
-
-#MachineLearning #DataScience #AI #Analytics #PredictiveModeling  
